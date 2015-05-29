@@ -15,6 +15,17 @@ $ . setup.sh
 
 Further refinements are in progress...
 
+
+##VOs covered
+
+* `gridpp`
+* `cernatschool.org`
+* `vo.londongrid.ac.uk`
+* `vo.northgrid.ac.uk`
+* `vo.scotgrid.ac.uk`
+* `vo.southgrid.ac.uk`
+
+
 ##Useful links
 
 * [The CERN VM homepage](http://cernvm.cern.ch) - for the VM images;
