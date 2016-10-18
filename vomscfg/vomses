@@ -7,6 +7,7 @@
 "vo.londongrid.ac.uk" "voms.gridpp.ac.uk" "15021" "/C=UK/O=eScience/OU=Manchester/L=HEP/CN=voms.gridpp.ac.uk" "vo.londongrid.ac.uk"
 "vo.londongrid.ac.uk" "voms02.gridpp.ac.uk" "15021" "/C=UK/O=eScience/OU=Oxford/L=OeSC/CN=voms02.gridpp.ac.uk" "vo.londongrid.ac.uk"
 "vo.londongrid.ac.uk" "voms03.gridpp.ac.uk" "15021" "/C=UK/O=eScience/OU=Imperial/L=Physics/CN=voms03.gridpp.ac.uk" "vo.londongrid.ac.uk"
+"vo.moedal.org" "voms2.cern.ch" "15017" "/DC=ch/DC=cern/OU=computers/CN=voms2.cern.ch" "vo.moedal.org"
 "vo.northgrid.ac.uk" "voms.gridpp.ac.uk" "15018" "/C=UK/O=eScience/OU=Manchester/L=HEP/CN=voms.gridpp.ac.uk" "vo.northgrid.ac.uk"
 "vo.northgrid.ac.uk" "voms02.gridpp.ac.uk" "15018" "/C=UK/O=eScience/OU=Oxford/L=OeSC/CN=voms02.gridpp.ac.uk" "vo.northgrid.ac.uk"
 "vo.northgrid.ac.uk" "voms03.gridpp.ac.uk" "15018" "/C=UK/O=eScience/OU=Imperial/L=Physics/CN=voms03.gridpp.ac.uk" "vo.northgrid.ac.uk"
